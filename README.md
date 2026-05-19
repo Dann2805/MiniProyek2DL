@@ -1,5 +1,6 @@
 # MiniProyek2DL
 📄 README.md
+
 Mini Proyek 2: Automated Essay Scoring (AES) 2.0 Berbasis LLM
 Repositori/Arsip ini berisi implementasi proyek Automated Essay Scoring (AES) 2.0, sebuah sistem penilaian esai siswa secara otomatis menggunakan Large Language Model (LLM). Proyek ini difokuskan pada penggunaan infrastruktur komputasi ringan (CPU-only) sehingga memanfaatkan Small Language Model (SLM) Qwen 0.5B melalui framework lokal Ollama.
 
